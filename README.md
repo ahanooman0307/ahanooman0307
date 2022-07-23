@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akshay Hanooman
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning web development with The Odin Project
+  and C++ at Hunter College
 - 📫 You can reach me at my email ahanooman0307@gmail.com
 
 <!---
